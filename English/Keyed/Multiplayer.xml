@@ -10,6 +10,8 @@
   <MpLoadingError4>Update/downgrade Multiplayer or RimWorld.</MpLoadingError4>
   <MpLoadingError5>NOTE: the game could have updated very recently and there might not be a new version of Multiplayer available yet.</MpLoadingError5>
 
+  <MpMacCompatibility>The Multiplayer mod is currently only compatible with MacOS when running through Rosetta or with a Intel processor</MpMacCompatibility>
+    
   <!-- Ingame -->
   <MpSimulating>Simulating</MpSimulating>
   <MpSimulatingServer>Simulating the server</MpSimulatingServer>
